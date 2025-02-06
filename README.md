@@ -1,4 +1,4 @@
-## Análise Exploratório de Dados
+## Análise Exploratória de Dados
 
 
 Iniciamos a análise exploratória, buscando compreender o comportamento do faturamento bruto. 
@@ -84,6 +84,13 @@ Essa categoria também apresenta a maior margem. Para isso, no select, fizemos u
 
 A última análise realizada, elucida o crescimento do faturamento total no ano de 2013. Realizamos um select buscando entender a entrada de novos produtos na carteira. No ano de 2013, foram iniciados 194 produtos novos. Valor muito superior aos anos anteriores. Esse aumento no portifólio gerou um aumento na receita total do ano.
 
+<img width="500" src="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/Nova%20pasta/Querie%206.1.png?raw=true">
+<img width="250" src="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/Nova%20pasta/Querie%206.png?raw=true">
+
+<a href="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/SQL/Adventure%20Queries.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
+
+<br>
+
 ### Conclusão
 Compreendemos que a linguagem SQL, não é a melhor ferramenta para vizualização de dados, mas com ela, é possível responder a vários requisitos do negócio, afim de apoiar a decisão estratégica. No case em específico, identificamos 2 principais insight's
 
@@ -91,10 +98,4 @@ Compreendemos que a linguagem SQL, não é a melhor ferramenta para vizualizaç�
 
 - O aumento do faturamento se deu pelo aumento no número de produtos cadastrados. Esse aumento no portifólio da empresa, trousse novas fontes de receitas e também pode ter ajudado a vendas de produtos já existente na base.
 
-
-
-<img width="500" src="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/Nova%20pasta/Querie%206.1.png?raw=true">
-<img width="250" src="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/Nova%20pasta/Querie%206.png?raw=true">
-
-<a href="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/SQL/Adventure%20Queries.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
 
