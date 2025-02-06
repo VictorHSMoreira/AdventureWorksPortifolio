@@ -94,8 +94,8 @@ A última análise realizada, elucida o crescimento do faturamento total no ano 
 ### Conclusão
 Compreendemos que a linguagem SQL, não é a melhor ferramenta para vizualização de dados, mas com ela, é possível responder a vários requisitos do negócio, afim de apoiar a decisão estratégica. No case em específico, identificamos 2 principais insight's
 
-- A empresa AdventureWorks, apresentou pontos positivos, como os produtos com maior margem de lucro, também ser os produtos mais vendidos. Isso permite que a empresa não necessite de um altíssimo giro de estoque para cobrir a defasagem de margem.
+- A empresa AdventureWorks, apresentou pontos positivos, como os produtos com maior margem de lucro, também serem os produtos mais vendidos. Isso permite que a empresa não necessite de um altíssimo giro de estoque para cobrir a defasagem de margem.
 
-- O aumento do faturamento se deu pelo aumento no número de produtos cadastrados. Esse aumento no portifólio da empresa, trousse novas fontes de receitas e também pode ter ajudado a vendas de produtos já existente na base.
+- O aumento do faturamento se deu pelo aumento no número de produtos cadastrados. Esse aumento no portifólio da empresa, trouxe novas fontes de receitas e também pode ter ajudado a vendas de produtos já existente na base.
 
 
